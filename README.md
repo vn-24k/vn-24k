@@ -1,24 +1,113 @@
-# 💫 About Me:
-<br>* 🔭 I’m currently working on **desenvolvimento de portfólios web profissionais, landing pages e experiências de branding digital usando React e Next.js.**<br>* 👯 I’m looking to collaborate on **ferramentas de IA de código aberto, automações de workflows e projetos frontend criativos.**<br>* 🤝 I’m looking for help with **otimização de deploys em produção e refinamento de modelos complexos de dados.**<br>* 🌱 I’m currently learning **Deep Learning avançado (redes LSTM), redução de dimensionalidade (PCA/LDA) e fluxos automatizados de DevOps.**<br>* 💬 Ask me about **design de UI/UX para plataformas digitais, automação com Python, estratégias de conteúdo para redes sociais e integração de IA no dia a dia.**<br>* ⚡ Fun fact **Consigo conectar o lado técnico da ciência de dados com a criação de conteúdo digital de alto engajamento.**<br>
+👨‍💻 Vinícius Landal
 
+Full Stack Developer | Web Technologies | AI & Automation
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vn-24k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vn-24k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vn-24k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C83FD&width=650&lines=Turning+ideas+into+digital+products.;Building+modern+web+experiences.;Exploring+the+intersection+of+Web+and+AI." alt="Typing SVG" />
+</p><p align="left">
+  <a href="https://github.com/vn-24k">
+    <img src="https://img.shields.io/badge/GitHub-vn--24k-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C83FD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interests-AI%20%26%20Automation-00BFA6?style=for-the-badge" />
+</p>---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vn-24k&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+✦ About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a developer interested in building digital products that combine functionality, design and technology.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vn-24k&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My work focuses on modern web development, creating responsive interfaces, developing applications and connecting different technologies to solve practical problems.
+
+I enjoy exploring the entire development process — from an initial idea and interface design to implementation, integrations and deployment.
+
+- 🚀 Building: Web applications, digital platforms and modern user experiences.
+- 💻 Frontend: React, JavaScript, TypeScript and modern web technologies.
+- ⚙️ Backend: Python, Node.js, APIs and application integrations.
+- 🧠 Exploring: Artificial Intelligence, LLM integrations and intelligent automation.
+- 🎨 Interested in: UI/UX, product design, software architecture and creative technology.
+- 🌱 Mindset: Continuous learning through experimentation and practical projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=vn-24k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧩 What I Build
+
+Area| Focus
+Frontend Development| Responsive interfaces and interactive applications
+Backend Development| Application logic, APIs and integrations
+Full Stack Applications| Connecting frontend, backend and data services
+AI Integration| Bringing AI capabilities into digital products
+Automation| Streamlining workflows and repetitive tasks
+Digital Experiences| Modern interfaces, usability and visual identity
+
+---
+
+⚡ Technology Stack
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
+</p>Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,supabase" />
+</p>Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,vscode" />
+</p>---
+
+🚧 Currently Exploring
+
+- Artificial Intelligence and LLM-powered applications.
+- Python automation and intelligent workflows.
+- Full Stack application architecture.
+- API integrations and backend development.
+- Deployment workflows and production environments.
+
+---
+
+🏗️ Development Philosophy
+
+I believe good software is more than code.
+
+It's about understanding problems, designing practical solutions, building reliable systems and continuously improving the result.
+
+My approach:
+
+Understand → Plan → Build → Test → Improve → Deliver
+
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vn-24k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vn-24k&theme=tokyonight&hide_border=true" />
+</p><p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-24k&layout=compact&theme=tokyonight&hide_border=true" />
+</p>---
+
+🤝 Let's Build Something
+
+I'm interested in collaborating on projects involving:
+
+- Modern web applications.
+- Open-source software.
+- AI-powered products.
+- Automation and developer tools.
+- Creative digital experiences.
+
+<p align="center">
+  <a href="https://github.com/vn-24k">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p><p align="center">
+  <i>Build with purpose. Learn without limits. Create with technology.</i>
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vn-24k&style=flat-square&color=7C83FD&label=PROFILE+VIEWS" />
+</p>
