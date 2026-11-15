@@ -1,113 +1,96 @@
-👨‍💻 Vinícius Landal
-
-Full Stack Developer | Web Technologies | AI & Automation
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7C83FD&width=650&lines=Turning+ideas+into+digital+products.;Building+modern+web+experiences.;Exploring+the+intersection+of+Web+and+AI." alt="Typing SVG" />
-</p><p align="left">
-  <a href="https://github.com/vn-24k">
-    <img src="https://img.shields.io/badge/GitHub-vn--24k-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C83FD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interests-AI%20%26%20Automation-00BFA6?style=for-the-badge" />
-</p>---
-
-✦ About Me
-
-I'm a developer interested in building digital products that combine functionality, design and technology.
-
-My work focuses on modern web development, creating responsive interfaces, developing applications and connecting different technologies to solve practical problems.
-
-I enjoy exploring the entire development process — from an initial idea and interface design to implementation, integrations and deployment.
-
-- 🚀 Building: Web applications, digital platforms and modern user experiences.
-- 💻 Frontend: React, JavaScript, TypeScript and modern web technologies.
-- ⚙️ Backend: Python, Node.js, APIs and application integrations.
-- 🧠 Exploring: Artificial Intelligence, LLM integrations and intelligent automation.
-- 🎨 Interested in: UI/UX, product design, software architecture and creative technology.
-- 🌱 Mindset: Continuous learning through experimentation and practical projects.
-
----
-
-🧩 What I Build
-
-Area| Focus
-Frontend Development| Responsive interfaces and interactive applications
-Backend Development| Application logic, APIs and integrations
-Full Stack Applications| Connecting frontend, backend and data services
-AI Integration| Bringing AI capabilities into digital products
-Automation| Streamlining workflows and repetitive tasks
-Digital Experiences| Modern interfaces, usability and visual identity
-
----
-
-⚡ Technology Stack
-
-Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" />
-</p>Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
-</p>Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,supabase" />
-</p>Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,docker,vscode" />
-</p>---
-
-🚧 Currently Exploring
-
-- Artificial Intelligence and LLM-powered applications.
-- Python automation and intelligent workflows.
-- Full Stack application architecture.
-- API integrations and backend development.
-- Deployment workflows and production environments.
-
----
-
-🏗️ Development Philosophy
-
-I believe good software is more than code.
-
-It's about understanding problems, designing practical solutions, building reliable systems and continuously improving the result.
-
-My approach:
-
-Understand → Plan → Build → Test → Improve → Deliver
-
----
-
-📊 GitHub Analytics
+◈ VN-24K — Vinícius
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vn-24k&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=vn-24k&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9B8AFB&center=true&vCenter=true&width=850&height=45&lines=Ideas+are+everywhere.+Execution+makes+the+difference.;Building+software.+Exploring+intelligence.;Engineering+digital+experiences." alt="Introduction" />
 </p><p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vn-24k&layout=compact&theme=tokyonight&hide_border=true" />
+  <strong>FULL STACK DEVELOPER · SOFTWARE · AI · CREATIVE TECHNOLOGY</strong>
+</p><p align="center">
+  <a href="https://github.com/vn-24k">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
+  </a>
 </p>---
 
-🤝 Let's Build Something
+01 / THE MINDSET
 
-I'm interested in collaborating on projects involving:
+I build digital experiences by combining engineering, creativity and problem-solving.
 
-- Modern web applications.
-- Open-source software.
-- AI-powered products.
-- Automation and developer tools.
-- Creative digital experiences.
+My focus is on turning ideas into functional software — from intuitive interfaces and web applications to backend integrations and intelligent workflows.
+
+I'm particularly interested in understanding how different technologies work together to create products that are useful, scalable and thoughtfully designed.
+
+I don't see development as simply writing code. I see it as the process of transforming problems into solutions.
+
+02 / WHAT I'M BUILDING
+
+Domain| Direction
+Frontend Engineering| Modern interfaces, responsive applications and user experiences
+Full Stack Development| Web applications, application logic and API integrations
+Backend & Automation| Python, Node.js and workflow automation
+Artificial Intelligence| AI integrations and intelligent applications
+Digital Product Design| UI/UX, usability and creative digital experiences
+
+03 / THE TOOLBOX
+
+CORE DEVELOPMENT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs&perline=5" alt="Core development technologies" />
+</p>WEB ECOSYSTEM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,vite,tailwind,html,css&perline=5" alt="Web development technologies" />
+</p>DEVELOPMENT WORKFLOW
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" alt="Development tools" />
+</p>04 / CURRENT EXPLORATIONS
+
+[01] AI & LLM INTEGRATIONS
+     Exploring intelligent applications and AI-powered workflows.
+
+[02] SOFTWARE ENGINEERING
+     Improving architecture, code quality and application structure.
+
+[03] BACKEND DEVELOPMENT
+     Expanding knowledge of APIs, services and data management.
+
+[04] AUTOMATION
+     Building practical solutions with Python and modern tools.
+
+[05] DEPLOYMENT
+     Exploring production environments and delivery workflows.
+
+05 / SELECTED WORK
+
+I believe projects should speak louder than technology lists.
+
+Explore my repositories and pinned projects to see what I'm building, experimenting with and improving.
+
+"→ Browse my repositories" (https://github.com/vn-24k?tab=repositories)
+
+---
+
+06 / ENGINEERING PRINCIPLES
+
+THINK       → Understand the problem.
+DESIGN      → Define the solution.
+BUILD       → Turn ideas into software.
+TEST        → Validate every decision.
+REFINE      → Improve what matters.
+SHIP        → Deliver something useful.
+
+I value clarity over complexity, practical solutions over unnecessary abstraction, and continuous improvement over superficial perfection.
+
+---
+
+07 / CONNECT
 
 <p align="center">
   <a href="https://github.com/vn-24k">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p><p align="center">
-  <i>Build with purpose. Learn without limits. Create with technology.</i>
+  <strong>Build with intention. Think beyond the obvious.</strong>
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vn-24k&style=flat-square&color=7C83FD&label=PROFILE+VIEWS" />
+  <sub>VN-24K · SOFTWARE DEVELOPMENT · ALWAYS EVOLVING</sub>
 </p>
