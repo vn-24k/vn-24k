@@ -1,96 +1,125 @@
-◈ VN-24K — Vinícius
+◈ VN-24K / VINÍCIUS
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=9B8AFB&center=true&vCenter=true&width=850&height=45&lines=Ideas+are+everywhere.+Execution+makes+the+difference.;Building+software.+Exploring+intelligence.;Engineering+digital+experiences." alt="Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=THINK+BEYOND+THE+OBVIOUS.;Turning+ideas+into+software.;Engineering+digital+experiences.;Building+at+the+intersection+of+Web+%26+AI." alt="Animated introduction" />
 </p><p align="center">
-  <strong>FULL STACK DEVELOPER · SOFTWARE · AI · CREATIVE TECHNOLOGY</strong>
+  <code>FULL STACK DEVELOPMENT</code> · <code>SOFTWARE ENGINEERING</code> · <code>AI & AUTOMATION</code>
 </p><p align="center">
   <a href="https://github.com/vn-24k">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work" />
+    <img src="https://img.shields.io/badge/GITHUB-18181B?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_EVOLUTION-06B6D4?style=flat-square" />
 </p>---
 
-01 / THE MINDSET
+"01" / IDENTITY
 
-I build digital experiences by combining engineering, creativity and problem-solving.
+██╗   ██╗███╗   ██╗
+██║   ██║████╗  ██║
+██║   ██║██╔██╗ ██║
+╚██╗ ██╔╝██║╚██╗██║
+ ╚████╔╝ ██║ ╚████║
+  ╚═══╝  ╚═╝  ╚═══╝
 
-My focus is on turning ideas into functional software — from intuitive interfaces and web applications to backend integrations and intelligent workflows.
+    V N - 2 4 K
 
-I'm particularly interested in understanding how different technologies work together to create products that are useful, scalable and thoughtfully designed.
+I'm a developer focused on building digital products that combine engineering, creativity and intelligent technology.
 
-I don't see development as simply writing code. I see it as the process of transforming problems into solutions.
+I enjoy exploring how software works beneath the surface — from frontend architecture and backend logic to APIs, automation and artificial intelligence.
 
-02 / WHAT I'M BUILDING
+My goal is to turn complex ideas into practical, well-designed and functional solutions.
 
-Domain| Direction
-Frontend Engineering| Modern interfaces, responsive applications and user experiences
-Full Stack Development| Web applications, application logic and API integrations
-Backend & Automation| Python, Node.js and workflow automation
-Artificial Intelligence| AI integrations and intelligent applications
-Digital Product Design| UI/UX, usability and creative digital experiences
+«Technology is the medium. Solving problems is the purpose.»
 
-03 / THE TOOLBOX
+"02" / ENGINEERING DOMAINS
 
-CORE DEVELOPMENT
+DOMAIN| FOCUS
+◈ Frontend| Interfaces, responsive applications and UX
+◈ Backend| Application logic, APIs and integrations
+◈ Full Stack| End-to-end digital products
+◈ Artificial Intelligence| AI integrations and intelligent workflows
+◈ Automation| Python scripts and workflow optimization
+◈ Product Engineering| Architecture, usability and iteration
+
+"03" / TECHNOLOGY MATRIX
+
+LANGUAGES
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs&perline=5" alt="Core development technologies" />
-</p>WEB ECOSYSTEM
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python&theme=dark" />
+</p>FRONTEND
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,vite,tailwind,html,css&perline=5" alt="Web development technologies" />
-</p>DEVELOPMENT WORKFLOW
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" />
+</p>BACKEND & DEVELOPMENT TOOLS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" alt="Development tools" />
-</p>04 / CURRENT EXPLORATIONS
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode&theme=dark" />
+</p>"04" / CURRENT EXPLORATIONS
 
-[01] AI & LLM INTEGRATIONS
-     Exploring intelligent applications and AI-powered workflows.
+development:
+  focus:
+    - Full Stack Applications
+    - Modern Frontend Architecture
+    - API Integration
 
-[02] SOFTWARE ENGINEERING
-     Improving architecture, code quality and application structure.
+research:
+  exploring:
+    - Artificial Intelligence
+    - LLM-powered Applications
+    - Intelligent Automation
 
-[03] BACKEND DEVELOPMENT
-     Expanding knowledge of APIs, services and data management.
+engineering:
+  improving:
+    - Software Architecture
+    - Code Quality
+    - Deployment Workflows
 
-[04] AUTOMATION
-     Building practical solutions with Python and modern tools.
+"05" / SYSTEM ANALYTICS
 
-[05] DEPLOYMENT
-     Exploring production environments and delivery workflows.
+<p align="center">
+  <img src="./assets/cards.dark.svg" alt="GitHub analytics dashboard" width="100%" />
+</p>"06" / CONTRIBUTION MATRIX
 
-05 / SELECTED WORK
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vn-24k/vn-24k/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vn-24k/vn-24k/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/vn-24k/vn-24k/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>"07" / DEVELOPMENT PROTOCOL
 
-I believe projects should speak louder than technology lists.
+  ┌──────────────────────────────────────┐
+  │                                      │
+  │   01  THINK       → Understand       │
+  │   02  DESIGN      → Architect        │
+  │   03  BUILD       → Implement        │
+  │   04  TEST        → Validate         │
+  │   05  REFINE      → Optimize         │
+  │   06  SHIP        → Deliver          │
+  │                                      │
+  └──────────────────────────────────────┘
 
-Explore my repositories and pinned projects to see what I'm building, experimenting with and improving.
+I value clean solutions, technical curiosity, thoughtful design and continuous improvement.
 
-"→ Browse my repositories" (https://github.com/vn-24k?tab=repositories)
+"08" / SELECTED EXPERIMENTS
 
----
+Ideas become valuable when they become working products.
 
-06 / ENGINEERING PRINCIPLES
+Explore my repositories and ongoing experiments:
 
-THINK       → Understand the problem.
-DESIGN      → Define the solution.
-BUILD       → Turn ideas into software.
-TEST        → Validate every decision.
-REFINE      → Improve what matters.
-SHIP        → Deliver something useful.
+"→ ALL REPOSITORIES" (https://github.com/vn-24k?tab=repositories)
 
-I value clarity over complexity, practical solutions over unnecessary abstraction, and continuous improvement over superficial perfection.
-
----
-
-07 / CONNECT
+"09" / CONNECTION
 
 <p align="center">
   <a href="https://github.com/vn-24k">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p><p align="center">
-  <strong>Build with intention. Think beyond the obvious.</strong>
+  <code>BUILD WITH INTENTION.</code>
+  <code>THINK WITHOUT LIMITS.</code>
+  <code>CREATE WHAT'S NEXT.</code>
 </p><p align="center">
   <sub>VN-24K · SOFTWARE DEVELOPMENT · ALWAYS EVOLVING</sub>
 </p>
